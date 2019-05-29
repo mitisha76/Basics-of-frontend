@@ -1,0 +1,27 @@
+
+<html>
+    <head>
+            <link href="home.css" rel="stylesheet" type="text/css">
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+			
+    </head>
+    <body bgcolor="#261305">
+        <header>
+            <center>
+                <br><br><br><br><br><br>
+                <img src="logo.png" height="400" weight="400"><br><br>
+
+               <a href="website.html" class="btn btn-two">WELCOME TO MISHU'S CHOCO HUB</a>
+
+      
+      
+      
+ 
+                </center>
+
+            </header>
+            
+        </body>
+        </html>
+
