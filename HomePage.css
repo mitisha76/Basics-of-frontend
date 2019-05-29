@@ -1,0 +1,27 @@
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn-two
+{
+    background-color: #261305;
+    font-family: "Roboto", sans-serif;
+}
