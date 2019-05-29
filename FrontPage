@@ -1,0 +1,57 @@
+
+<html>
+<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>MISHU'S CHOCO HUB</title>
+    <link href="website.css" rel="stylesheet" type="text/css">
+</head> 
+<body>
+    <header>
+        
+            <div class="row">
+                    <div class="logo">
+                    <img src="logo.png"
+                    </div>
+            
+    <ul class="main-nav">    
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="menu.html"> MENU </a></li>
+        <li><a href="aboutandcontact.html"> ABOUT & CONTACT</a></li>
+        <li><a href="faq.html"> FAQ </a></li>
+        <li><a href="https://www.google.com/search?q=chocolate+news&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiowMymuofhAhWBQo8KHUZYAFUQ_AUIDigB&biw=1366&bih=657">NEWS </a></li>
+    </ul>    
+        
+    </div>
+        
+    <div class="hero">
+    <h1>MISHU'S CHOCOLATE HUB !</h1>
+    <h3><marquee direction = "up" height="100%" scrollamount="2" onmouseover="this.stop();" onmouseout="this.start();">
+        Buying Chocolate Online? Look no further than MISHU'S CHOCO HUB by Mitisha Goyal in INDIA
+        The world of internet and online that comprises of social media and digitization has been taking over our
+        lives and almost every facet of lifestyle in a very big manner. Right from the impeccability of the interfaces
+        that the online world of website and applications offer to the meticulous planning that goes behind in ensuring
+        such as watching movies, browsing news, and more is commendable. But there are seldom online retailers that are
+        really genuine with their offerings and business operations.<br>
+        Our brand MISHU'S CHOCO HUB by Mitisha Goyal has been endorsed as the
+        Best Online Chocolate Websites by our loyal and esteemed customers spread across in 
+        the city of Bathinda and all across the India as it is the constant enterprise of our brand
+        to serve our customers not only a delectable range of finely curated and confected myriad 
+        range of handmade chocolates but also make their chocolate shopping experience a delightful 
+        one at our physical store in Bathinda and through our official website.
+        </marquee>
+    </h3>
+       <br><br><br><br><br>
+    <div class="button">
+        <a href="video.mp4" class="btn btn-one"> Watch Video</a>
+        <a href="more.html" class="btn btn-two"> Explore More</a>    
+    </div>    
+            
+    </div>
+    
+    </header>
+
+
+        
+</body>    
+</html>
