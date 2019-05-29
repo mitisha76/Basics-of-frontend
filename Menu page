@@ -1,0 +1,52 @@
+
+<HTML>
+<HEAD>
+        <link href="menu.css" rel="stylesheet" type="text/css">
+
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">    </HEAD>
+<TITLE></TITLE>
+<BODY bgcolor="#261305">
+    <center><h4>MENU</h4></center>
+<center><table border="0"></center>
+<br>
+<br><br>
+<tr><td><img src="1.jpg" height="250" width="500"></td>
+<th><td><h2><marquee direction ="up" width="300%" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+        Amul Dark Chocolate is made with the finest ingredients and rich cocoa.
+        Its strong flavour and silky texture is just what you need to fall in love with pure cocoa for its authentice taste.
+        <h3>MRP RS.1000<h3>
+</h2><th><center><div class="button"><a href="form.html" class="btn btn-one">BUY</a></div></center></th>
+<tr><td><img src="2.jpg" height="250" width="500"></td>
+    <th><td><h2><marquee direction ="up" width="300%" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+            Bournville Rich Cocoa Chocolate is irresistible and specially created to savour the palate with 50% cocoa 
+            and an ever so smooth texture, each little chunk is dark and undeniably good!Â The finest cocoa beans that 
+            have the perfect size and aroma go in to the making of the Bournville, offering consumers the sheer 
+            luxury and goodness of premium dark chocolate.<h3>MRP RS.1250</h3>
+    </h2><th><center><div class="button"><a href="form.html" class="btn btn-one">BUY</a></div></center></th>
+    <tr><td><img src="3.jpg" height="250" width="500"></td>
+        <th><td><h2><marquee direction ="up" width="500%" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+                Cadbury Dairy Milk Silk now comes in new exciting oreo flavor. Your favourite cadbury dairy milk now in a softer,
+                smoother and creamier taste.Made from the delicious silky chocolate flavour and the crunchy Oreo cookies,
+                this chocolate is a treat for everyone.<h3>MRP RS.1300</h3>
+        </h2><th><center><div class="button"><a href="form.html" class="btn btn-one">BUY</a></div></center></th>
+        <tr><td><img src="4.jpg" height="250" width="500"></td>
+            <th><td><h2><marquee direction ="up" width="500%" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+                    Nestle Les Recettes de l'Atelier literally stands for the recipes from the artisan's shop.
+                    Crafted with a handmade spirit by Swiss chocolatiers, this smooth and creamy chocolate subtly coats
+                    whole hazelnuts, crunchy almonds and delicious raisins, making every bite unique. Immerse your senses
+                    in this irresistible and visibly authentic chocolate experience.<h3>MRP RS.1450</h3>
+            </h2><th><center><div class="button"><a href="form.html" class="btn btn-one">BUY</a></div></center></th>
+            <tr><td><img src="5.jpg" height="250" width="500"></td>
+                <th><td><h2><marquee direction ="up" width="500%" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+                    Nestle Les Recettes de l'Atelier literally stands for the recipes from the artisan's shop.
+                    Crafted with a handmade spirit by Swiss chocolatiers, this smooth and creamy chocolate subtly
+                    coats whole hazelnuts, crunchy almonds and delicious raisins, making every bite unique. Immerse
+                    your senses in this irresistible and visibly authentic chocolate experience.<h3>MRP RS.1500</h3>
+                </h2><th><center><div class="button"><a href="form.html" class="btn btn-one">BUY</a></div></center></th>
+                
+
+</table>
+</body>
+</html>
+
